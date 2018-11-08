@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name" translatable="false">Estudo</string>
+    <string name="titulo">Inform the code, please</string>
+    <string name="botao">Search</string>
+    <string name="sobre">About</string>
+    <string name="dica">Code</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Estudo</string>
+    <string name="titulo">Informe o código, por favor</string>
+    <string name="botao">Pesquisar</string>
+    <string name="sobre">Sobre</string>
+    <string name="dica">Código</string>
+</resources>
